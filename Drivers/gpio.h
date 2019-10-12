@@ -5,5 +5,7 @@
 
 
 void ALL_GPIO_Init();
+void LED_GPIO_Init();
+void UART1_GPIO_Init();
 
 #endif 

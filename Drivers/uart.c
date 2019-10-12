@@ -14,4 +14,6 @@ void Uart_init(uint32_t bound)
     Uart1_InitStructure.USART_Parity=USART_Parity_No;
     Uart1_InitStructure.USART_StopBits=USART_StopBits_1;
     Uart1_InitStructure.USART_WordLength=USART_WordLength_8b;
+
+    USART_Init(USART1,&Uart1_InitStructure);
 }
