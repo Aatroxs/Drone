@@ -5,9 +5,6 @@
 #include "gpio.h"
 
 
-
-
-
 int main(void)
 {
 	ALL_GPIO_Init();

@@ -2,17 +2,20 @@ PROJECT :=Stm32
 
 DIR_BUILD   := ../Project/build/
 DIR_DRIVERS += ../Drivers/
+DIR_DEVICES += ../Devices/
 
 DIR_INCLUDE += -I../Libraries/ \
                -I../Libraries/Stm32F10x_Fwlib/ \
                -I../Libraries/Stm32F10x_Fwlib/CMSIS/ \
 			   -I../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/inc/ \
 			   $(addprefix -I,$(DIR_DRIVERS)) \
+			   $(addprefix -I,$(DIR_DEVICES)) \
 			   -I../User/
 
 SRC_C       += $(wildcard ../Libraries/Stm32F10x_Fwlib/CMSIS/*.c)
 SRC_C       += $(wildcard ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/*.c)
 SRC_C       += $(wildcard $(addsuffix *.c,$(DIR_DRIVERS)))
+SRC_C       += $(wildcard $(addsuffix *.c,$(DIR_DEVICES)))
 SRC_C       += $(wildcard ../User/*.c)
 
 SRC_ASM     := ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.s
