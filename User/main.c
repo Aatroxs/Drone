@@ -2,27 +2,15 @@
 #include "core_cm3.h"
 #include "stm32f10x_conf.h"
 #include "delay.h"
+#include "gpio.h"
 
 
-
-int LED_Init()
-{
-    RCC_APB2PeriphClockCmd(RCC_APB2Periph_GPIOB,ENABLE);
-    GPIO_InitTypeDef LED_GPIO_InitStructure;
-
-    LED_GPIO_InitStructure.GPIO_Mode=GPIO_Mode_Out_PP;
-    LED_GPIO_InitStructure.GPIO_Pin=GPIO_Pin_12;
-    LED_GPIO_InitStructure.GPIO_Speed=GPIO_Speed_50MHz;
-
-    GPIO_Init(GPIOB,&LED_GPIO_InitStructure);
-    return 1;
-}
 
 
 
 int main(void)
 {
-	LED_Init();
+	ALL_GPIO_Init();
     Delay_Init();
     GPIO_ResetBits(GPIOB,GPIO_Pin_12);
 
