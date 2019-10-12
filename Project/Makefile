@@ -63,6 +63,8 @@ FLAGS_LD  := $(SPECS) $(FLAGS_MCU) $(OPT) -lm -g -gdwarf-2 -mthumb \
              -nostartfiles -Xlinker --gc-sections -T$(LINK_SCRIPT) \
              -Wl,-Map=$(PROJECT).map,--cref,--no-warn-mismatch
 
+POINT     := ,
+SPACE     := 
 .PHONY: all clean
 
 all: $(OBJS) $(PROJECT).elf $(PROJECT).hex $(PROJECT).bin
@@ -82,3 +84,5 @@ all: $(OBJS) $(PROJECT).elf $(PROJECT).hex $(PROJECT).bin
 
 %.bin: %.elf
 	$(BIN) $< $@
+clean :
+	rm  $(addsuffix $(SPACE) $(POINT),$(OBJS))

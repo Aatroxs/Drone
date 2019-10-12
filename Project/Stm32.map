@@ -61,7 +61,7 @@ Discarded input sections
                 0x00000000       0xc8 ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
  .debug_ranges  0x00000000       0xb8 ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
  .debug_line    0x00000000      0x37b ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
- .debug_str     0x00000000      0x375 ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+ .debug_str     0x00000000      0x36e ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
  .comment       0x00000000       0x77 ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
  .debug_frame   0x00000000      0x170 ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
  .ARM.attributes
@@ -147,7 +147,7 @@ Discarded input sections
                 0x00000000       0xb0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
  .debug_ranges  0x00000000       0xa0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
  .debug_line    0x00000000      0x92e ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
- .debug_str     0x00000000      0x832 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
+ .debug_str     0x00000000      0x82b ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
  .comment       0x00000000       0x77 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
  .debug_frame   0x00000000      0x168 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
  .ARM.attributes
@@ -1709,16 +1709,16 @@ OUTPUT(Stm32.elf elf32-littlearm)
                 0x000002d0       0x40 ../User/stm32f10x_it.o
 
 .debug_str      0x00000000      0xea8
- .debug_str     0x00000000       0x8c ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
- .debug_str     0x0000008c      0x2c6 ../Libraries/Stm32F10x_Fwlib/CMSIS/system_stm32f10x.o
-                                0x36f (size before relaxing)
- .debug_str     0x00000352      0x3d7 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
-                                0x5e8 (size before relaxing)
- .debug_str     0x00000729      0x1fd ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/misc.o
+ .debug_str     0x00000000       0x85 ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+ .debug_str     0x00000085      0x2c6 ../Libraries/Stm32F10x_Fwlib/CMSIS/system_stm32f10x.o
+                                0x368 (size before relaxing)
+ .debug_str     0x0000034b      0x3d7 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+                                0x5e1 (size before relaxing)
+ .debug_str     0x00000722      0x23f ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/misc.o
                                 0x470 (size before relaxing)
- .debug_str     0x00000926      0x3dc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .debug_str     0x00000961      0x3dc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
                                 0x6d2 (size before relaxing)
- .debug_str     0x00000d02       0x7e ../Drivers/delay.o
+ .debug_str     0x00000d3d       0x43 ../Drivers/delay.o
                                 0x266 (size before relaxing)
  .debug_str     0x00000d80       0x6d ../Drivers/gpio.o
                                 0x3a8 (size before relaxing)
