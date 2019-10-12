@@ -16,4 +16,7 @@ void Uart_init(uint32_t bound)
     Uart1_InitStructure.USART_WordLength=USART_WordLength_8b;
 
     USART_Init(USART1,&Uart1_InitStructure);
+
+    USART_ITConfig(USART1,USART_IT_RXNE,ENABLE);
+    USART_Cmd(USART1,ENABLE);
 }
