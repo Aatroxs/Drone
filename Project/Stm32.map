@@ -1,0 +1,2300 @@
+
+Discarded input sections
+
+ .text          0x00000000       0x14 ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+ .data          0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+ .bss           0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+ .text          0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/CMSIS/system_stm32f10x.o
+ .data          0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/CMSIS/system_stm32f10x.o
+ .bss           0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/CMSIS/system_stm32f10x.o
+ .text.SystemCoreClockUpdate
+                0x00000000       0x5c ../Libraries/Stm32F10x_Fwlib/CMSIS/system_stm32f10x.o
+ .data.AHBPrescTable
+                0x00000000       0x10 ../Libraries/Stm32F10x_Fwlib/CMSIS/system_stm32f10x.o
+ .text          0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+ .data          0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+ .bss           0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+ .text.__get_PSP
+                0x00000000        0x8 ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+ .text.__set_PSP
+                0x00000000        0x6 ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+ .text.__get_MSP
+                0x00000000        0x8 ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+ .text.__set_MSP
+                0x00000000        0x6 ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+ .text.__get_BASEPRI
+                0x00000000        0x6 ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+ .text.__set_BASEPRI
+                0x00000000        0x6 ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+ .text.__get_PRIMASK
+                0x00000000        0x6 ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+ .text.__set_PRIMASK
+                0x00000000        0x6 ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+ .text.__get_FAULTMASK
+                0x00000000        0x6 ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+ .text.__set_FAULTMASK
+                0x00000000        0x6 ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+ .text.__get_CONTROL
+                0x00000000        0x6 ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+ .text.__set_CONTROL
+                0x00000000        0x6 ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+ .text.__REV    0x00000000        0x4 ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+ .text.__REV16  0x00000000        0x4 ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+ .text.__REVSH  0x00000000        0x4 ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+ .text.__RBIT   0x00000000        0x6 ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+ .text.__LDREXB
+                0x00000000        0x8 ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+ .text.__LDREXH
+                0x00000000        0x8 ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+ .text.__LDREXW
+                0x00000000        0x6 ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+ .text.__STREXB
+                0x00000000        0x8 ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+ .text.__STREXH
+                0x00000000        0x8 ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+ .text.__STREXW
+                0x00000000        0x6 ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+ .debug_info    0x00000000      0x647 ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+ .debug_abbrev  0x00000000       0xd3 ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+ .debug_loc     0x00000000      0x3a2 ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+ .debug_aranges
+                0x00000000       0xc8 ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+ .debug_ranges  0x00000000       0xb8 ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+ .debug_line    0x00000000      0x37b ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+ .debug_str     0x00000000      0x375 ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+ .comment       0x00000000       0x77 ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+ .debug_frame   0x00000000      0x170 ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+ .ARM.attributes
+                0x00000000       0x2d ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+ .text          0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .data          0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .bss           0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .text.GPIO_DeInit
+                0x00000000       0xb8 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .text.GPIO_AFIODeInit
+                0x00000000       0x16 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .text.GPIO_StructInit
+                0x00000000        0xe ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .text.GPIO_ReadInputDataBit
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .text.GPIO_ReadInputData
+                0x00000000        0x6 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .text.GPIO_ReadOutputDataBit
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .text.GPIO_ReadOutputData
+                0x00000000        0x6 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .text.GPIO_WriteBit
+                0x00000000        0xa ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .text.GPIO_Write
+                0x00000000        0x4 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .text.GPIO_PinLockConfig
+                0x00000000       0x10 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .text.GPIO_EventOutputConfig
+                0x00000000       0x1c ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .text.GPIO_EventOutputCmd
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .text.GPIO_PinRemapConfig
+                0x00000000       0x60 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .text.GPIO_EXTILineConfig
+                0x00000000       0x2a ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .text.GPIO_ETH_MediaInterfaceConfig
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .text          0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
+ .data          0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
+ .bss           0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
+ .text.FSMC_NORSRAMDeInit
+                0x00000000       0x28 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
+ .text.FSMC_NANDDeInit
+                0x00000000       0x24 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
+ .text.FSMC_PCCARDDeInit
+                0x00000000       0x1c ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
+ .text.FSMC_NORSRAMInit
+                0x00000000       0xb4 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
+ .text.FSMC_NANDInit
+                0x00000000       0x68 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
+ .text.FSMC_PCCARDInit
+                0x00000000       0x68 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
+ .text.FSMC_NORSRAMStructInit
+                0x00000000       0x4e ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
+ .text.FSMC_NANDStructInit
+                0x00000000       0x2a ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
+ .text.FSMC_PCCARDStructInit
+                0x00000000       0x2a ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
+ .text.FSMC_NORSRAMCmd
+                0x00000000       0x20 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
+ .text.FSMC_NANDCmd
+                0x00000000       0x30 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
+ .text.FSMC_PCCARDCmd
+                0x00000000       0x20 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
+ .text.FSMC_NANDECCCmd
+                0x00000000       0x30 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
+ .text.FSMC_GetECC
+                0x00000000       0x14 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
+ .text.FSMC_ITConfig
+                0x00000000       0x44 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
+ .text.FSMC_GetFlagStatus
+                0x00000000       0x2c ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
+ .text.FSMC_ClearFlag
+                0x00000000       0x2c ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
+ .text.FSMC_GetITStatus
+                0x00000000       0x34 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
+ .text.FSMC_ClearITPendingBit
+                0x00000000       0x2c ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
+ .debug_info    0x00000000      0xab4 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
+ .debug_abbrev  0x00000000      0x228 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
+ .debug_loc     0x00000000      0x518 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
+ .debug_aranges
+                0x00000000       0xb0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
+ .debug_ranges  0x00000000       0xa0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
+ .debug_line    0x00000000      0x92e ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
+ .debug_str     0x00000000      0x832 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
+ .comment       0x00000000       0x77 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
+ .debug_frame   0x00000000      0x168 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
+ .ARM.attributes
+                0x00000000       0x2d ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
+ .text          0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.o
+ .data          0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.o
+ .bss           0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.o
+ .text.EXTI_DeInit
+                0x00000000       0x1c ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.o
+ .text.EXTI_Init
+                0x00000000       0x68 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.o
+ .text.EXTI_StructInit
+                0x00000000        0xe ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.o
+ .text.EXTI_GenerateSWInterrupt
+                0x00000000       0x10 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.o
+ .text.EXTI_GetFlagStatus
+                0x00000000       0x14 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.o
+ .text.EXTI_ClearFlag
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.o
+ .text.EXTI_GetITStatus
+                0x00000000       0x1c ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.o
+ .text.EXTI_ClearITPendingBit
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.o
+ .debug_info    0x00000000      0x3cf ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.o
+ .debug_abbrev  0x00000000      0x216 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.o
+ .debug_loc     0x00000000      0x220 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.o
+ .debug_aranges
+                0x00000000       0x50 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.o
+ .debug_ranges  0x00000000       0x40 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.o
+ .debug_line    0x00000000      0x3a5 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.o
+ .debug_str     0x00000000      0x401 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.o
+ .comment       0x00000000       0x77 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.o
+ .debug_frame   0x00000000       0x9c ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.o
+ .ARM.attributes
+                0x00000000       0x2d ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.o
+ .text          0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_bkp.o
+ .data          0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_bkp.o
+ .bss           0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_bkp.o
+ .text.BKP_DeInit
+                0x00000000       0x12 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_bkp.o
+ .text.BKP_TamperPinLevelConfig
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_bkp.o
+ .text.BKP_TamperPinCmd
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_bkp.o
+ .text.BKP_ITConfig
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_bkp.o
+ .text.BKP_RTCOutputConfig
+                0x00000000       0x18 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_bkp.o
+ .text.BKP_SetRTCCalibrationValue
+                0x00000000       0x18 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_bkp.o
+ .text.BKP_WriteBackupRegister
+                0x00000000       0x1c ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_bkp.o
+ .text.BKP_ReadBackupRegister
+                0x00000000       0x1c ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_bkp.o
+ .text.BKP_GetFlagStatus
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_bkp.o
+ .text.BKP_ClearFlag
+                0x00000000       0x10 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_bkp.o
+ .text.BKP_GetITStatus
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_bkp.o
+ .text.BKP_ClearITPendingBit
+                0x00000000       0x10 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_bkp.o
+ .debug_info    0x00000000      0x97d ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_bkp.o
+ .debug_abbrev  0x00000000      0x1f0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_bkp.o
+ .debug_loc     0x00000000      0x192 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_bkp.o
+ .debug_aranges
+                0x00000000       0x78 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_bkp.o
+ .debug_ranges  0x00000000       0x68 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_bkp.o
+ .debug_line    0x00000000      0x3dd ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_bkp.o
+ .debug_str     0x00000000      0x680 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_bkp.o
+ .comment       0x00000000       0x77 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_bkp.o
+ .debug_frame   0x00000000       0xec ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_bkp.o
+ .ARM.attributes
+                0x00000000       0x2d ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_bkp.o
+ .text          0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .data          0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .bss           0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .text.SPI_I2S_DeInit
+                0x00000000       0x64 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .text.SPI_Init
+                0x00000000       0x3c ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .text.I2S_Init
+                0x00000000       0x94 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .text.SPI_StructInit
+                0x00000000       0x18 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .text.I2S_StructInit
+                0x00000000        0xe ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .text.SPI_Cmd  0x00000000       0x16 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .text.I2S_Cmd  0x00000000       0x16 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .text.SPI_I2S_ITConfig
+                0x00000000       0x1a ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .text.SPI_I2S_DMACmd
+                0x00000000       0x10 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .text.SPI_I2S_SendData
+                0x00000000        0x4 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .text.SPI_I2S_ReceiveData
+                0x00000000        0x4 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .text.SPI_NSSInternalSoftwareConfig
+                0x00000000       0x1a ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .text.SPI_SSOutputCmd
+                0x00000000       0x16 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .text.SPI_DataSizeConfig
+                0x00000000       0x14 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .text.SPI_TransmitCRC
+                0x00000000        0xa ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .text.SPI_CalculateCRC
+                0x00000000       0x16 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .text.SPI_GetCRC
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .text.SPI_GetCRCPolynomial
+                0x00000000        0x4 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .text.SPI_BiDirectionalLineConfig
+                0x00000000       0x18 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .text.SPI_I2S_GetFlagStatus
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .text.SPI_I2S_ClearFlag
+                0x00000000        0x8 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .text.SPI_I2S_GetITStatus
+                0x00000000       0x24 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .text.SPI_I2S_ClearITPendingBit
+                0x00000000       0x10 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .debug_info    0x00000000      0xb56 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .debug_abbrev  0x00000000      0x257 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .debug_loc     0x00000000      0x77b ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .debug_aranges
+                0x00000000       0xd0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .debug_ranges  0x00000000       0xc0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .debug_line    0x00000000      0x7b4 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .debug_str     0x00000000      0x6f5 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .comment       0x00000000       0x77 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .debug_frame   0x00000000      0x1c0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .ARM.attributes
+                0x00000000       0x2d ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .text          0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .data          0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .bss           0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_DeInit
+                0x00000000       0x60 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_Init
+                0x00000000       0x48 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_StructInit
+                0x00000000       0x10 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_Cmd  0x00000000       0x12 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_DMACmd
+                0x00000000       0x12 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_ITConfig
+                0x00000000       0x16 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_ResetCalibration
+                0x00000000        0xa ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_GetResetCalibrationStatus
+                0x00000000        0x8 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_StartCalibration
+                0x00000000        0xa ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_GetCalibrationStatus
+                0x00000000        0x8 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_SoftwareStartConvCmd
+                0x00000000       0x12 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_GetSoftwareStartConvStatus
+                0x00000000        0x8 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_DiscModeChannelCountConfig
+                0x00000000       0x10 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_DiscModeCmd
+                0x00000000       0x12 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_RegularChannelConfig
+                0x00000000       0x8c ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_ExternalTrigConvCmd
+                0x00000000       0x12 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_GetConversionValue
+                0x00000000        0x6 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_GetDualModeConversionValue
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_AutoInjectedConvCmd
+                0x00000000       0x12 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_InjectedDiscModeCmd
+                0x00000000       0x12 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_ExternalTrigInjectedConvConfig
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_ExternalTrigInjectedConvCmd
+                0x00000000       0x12 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_SoftwareStartInjectedConvCmd
+                0x00000000       0x12 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_GetSoftwareStartInjectedConvCmdStatus
+                0x00000000        0x8 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_InjectedChannelConfig
+                0x00000000       0x58 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_InjectedSequencerLengthConfig
+                0x00000000       0x10 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_SetInjectedOffset
+                0x00000000       0x16 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_GetInjectedConversionValue
+                0x00000000       0x1a ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_AnalogWatchdogCmd
+                0x00000000       0x10 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_AnalogWatchdogThresholdsConfig
+                0x00000000        0x6 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_AnalogWatchdogSingleChannelConfig
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_TempSensorVrefintCmd
+                0x00000000       0x18 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_GetFlagStatus
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_ClearFlag
+                0x00000000        0x6 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_GetITStatus
+                0x00000000       0x16 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_ClearITPendingBit
+                0x00000000        0x8 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .debug_info    0x00000000      0xe28 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .debug_abbrev  0x00000000      0x26b ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .debug_loc     0x00000000      0xd68 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .debug_aranges
+                0x00000000      0x138 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .debug_ranges  0x00000000      0x128 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .debug_line    0x00000000      0xad0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .debug_str     0x00000000      0x7ca ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .comment       0x00000000       0x77 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .debug_frame   0x00000000      0x290 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .ARM.attributes
+                0x00000000       0x2d ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text          0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_iwdg.o
+ .data          0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_iwdg.o
+ .bss           0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_iwdg.o
+ .text.IWDG_WriteAccessCmd
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_iwdg.o
+ .text.IWDG_SetPrescaler
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_iwdg.o
+ .text.IWDG_SetReload
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_iwdg.o
+ .text.IWDG_ReloadCounter
+                0x00000000       0x10 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_iwdg.o
+ .text.IWDG_Enable
+                0x00000000       0x10 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_iwdg.o
+ .text.IWDG_GetFlagStatus
+                0x00000000       0x14 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_iwdg.o
+ .debug_info    0x00000000      0x247 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_iwdg.o
+ .debug_abbrev  0x00000000      0x163 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_iwdg.o
+ .debug_loc     0x00000000       0x6c ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_iwdg.o
+ .debug_aranges
+                0x00000000       0x48 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_iwdg.o
+ .debug_ranges  0x00000000       0x38 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_iwdg.o
+ .debug_line    0x00000000      0x273 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_iwdg.o
+ .debug_str     0x00000000      0x314 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_iwdg.o
+ .comment       0x00000000       0x77 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_iwdg.o
+ .debug_frame   0x00000000       0x70 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_iwdg.o
+ .ARM.attributes
+                0x00000000       0x2d ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_iwdg.o
+ .text          0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/misc.o
+ .data          0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/misc.o
+ .bss           0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/misc.o
+ .text.NVIC_PriorityGroupConfig
+                0x00000000       0x14 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/misc.o
+ .text.NVIC_Init
+                0x00000000       0x58 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/misc.o
+ .text.NVIC_SetVectorTable
+                0x00000000       0x14 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/misc.o
+ .text.NVIC_SystemLPConfig
+                0x00000000       0x1c ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/misc.o
+ .text          0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.o
+ .data          0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.o
+ .bss           0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.o
+ .text.CEC_DeInit
+                0x00000000       0x1a ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.o
+ .text.CEC_Init
+                0x00000000       0x18 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.o
+ .text.CEC_Cmd  0x00000000       0x18 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.o
+ .text.CEC_ITConfig
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.o
+ .text.CEC_OwnAddressConfig
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.o
+ .text.CEC_SetPrescaler
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.o
+ .text.CEC_SendDataByte
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.o
+ .text.CEC_ReceiveDataByte
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.o
+ .text.CEC_StartOfMessage
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.o
+ .text.CEC_EndOfMessageCmd
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.o
+ .text.CEC_GetFlagStatus
+                0x00000000       0x24 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.o
+ .text.CEC_ClearFlag
+                0x00000000       0x1c ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.o
+ .text.CEC_GetITStatus
+                0x00000000       0x14 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.o
+ .text.CEC_ClearITPendingBit
+                0x00000000       0x1c ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.o
+ .debug_info    0x00000000      0x526 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.o
+ .debug_abbrev  0x00000000      0x25f ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.o
+ .debug_loc     0x00000000      0x252 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.o
+ .debug_aranges
+                0x00000000       0x88 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.o
+ .debug_ranges  0x00000000       0x78 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.o
+ .debug_line    0x00000000      0x475 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.o
+ .debug_str     0x00000000      0x445 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.o
+ .comment       0x00000000       0x77 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.o
+ .debug_frame   0x00000000       0xfc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.o
+ .ARM.attributes
+                0x00000000       0x2d ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.o
+ .text          0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_wwdg.o
+ .data          0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_wwdg.o
+ .bss           0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_wwdg.o
+ .text.WWDG_DeInit
+                0x00000000       0x1a ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_wwdg.o
+ .text.WWDG_SetPrescaler
+                0x00000000       0x14 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_wwdg.o
+ .text.WWDG_SetWindowValue
+                0x00000000       0x28 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_wwdg.o
+ .text.WWDG_EnableIT
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_wwdg.o
+ .text.WWDG_SetCounter
+                0x00000000       0x10 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_wwdg.o
+ .text.WWDG_Enable
+                0x00000000       0x10 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_wwdg.o
+ .text.WWDG_GetFlagStatus
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_wwdg.o
+ .text.WWDG_ClearFlag
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_wwdg.o
+ .debug_info    0x00000000      0x2d4 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_wwdg.o
+ .debug_abbrev  0x00000000      0x19e ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_wwdg.o
+ .debug_loc     0x00000000      0x11c ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_wwdg.o
+ .debug_aranges
+                0x00000000       0x58 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_wwdg.o
+ .debug_ranges  0x00000000       0x48 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_wwdg.o
+ .debug_line    0x00000000      0x33f ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_wwdg.o
+ .debug_str     0x00000000      0x32c ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_wwdg.o
+ .comment       0x00000000       0x77 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_wwdg.o
+ .debug_frame   0x00000000       0xa4 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_wwdg.o
+ .ARM.attributes
+                0x00000000       0x2d ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_wwdg.o
+ .text          0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .data          0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .bss           0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TI1_Config
+                0x00000000       0x70 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TI2_Config
+                0x00000000       0x74 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_DeInit
+                0x00000000      0x1c8 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_TimeBaseInit
+                0x00000000       0x94 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_OC1Init
+                0x00000000       0x84 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_OC2Init
+                0x00000000       0x80 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_OC3Init
+                0x00000000       0x7c ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_OC4Init
+                0x00000000       0x68 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_BDTRConfig
+                0x00000000       0x20 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_TimeBaseStructInit
+                0x00000000       0x12 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_OCStructInit
+                0x00000000       0x14 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_ICStructInit
+                0x00000000       0x10 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_BDTRStructInit
+                0x00000000       0x12 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_Cmd  0x00000000       0x16 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_CtrlPWMOutputs
+                0x00000000       0x16 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_ITConfig
+                0x00000000       0x10 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_GenerateEvent
+                0x00000000        0x4 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_DMAConfig
+                0x00000000        0x8 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_DMACmd
+                0x00000000        0x4 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_InternalClockConfig
+                0x00000000        0xe ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_ITRxExternalClockConfig
+                0x00000000       0x18 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_TIxExternalClockConfig
+                0x00000000       0x32 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_ETRConfig
+                0x00000000       0x14 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_ETRClockMode1Config
+                0x00000000       0x18 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_ETRClockMode2Config
+                0x00000000       0x10 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_PrescalerConfig
+                0x00000000        0x6 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_CounterModeConfig
+                0x00000000       0x10 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_SelectInputTrigger
+                0x00000000       0x10 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_EncoderInterfaceConfig
+                0x00000000       0x3a ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_ForcedOC1Config
+                0x00000000       0x10 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_ForcedOC2Config
+                0x00000000       0x14 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_ForcedOC3Config
+                0x00000000       0x10 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_ForcedOC4Config
+                0x00000000       0x14 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_ARRPreloadConfig
+                0x00000000       0x16 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_SelectCOM
+                0x00000000       0x16 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_SelectCCDMA
+                0x00000000       0x16 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_CCPreloadControl
+                0x00000000       0x16 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_OC1PreloadConfig
+                0x00000000       0x10 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_OC2PreloadConfig
+                0x00000000       0x14 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_OC3PreloadConfig
+                0x00000000       0x10 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_OC4PreloadConfig
+                0x00000000       0x14 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_OC1FastConfig
+                0x00000000       0x10 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_OC2FastConfig
+                0x00000000       0x14 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_OC3FastConfig
+                0x00000000       0x10 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_OC4FastConfig
+                0x00000000       0x14 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_ClearOC1Ref
+                0x00000000       0x10 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_ClearOC2Ref
+                0x00000000       0x10 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_ClearOC3Ref
+                0x00000000       0x10 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_ClearOC4Ref
+                0x00000000       0x10 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_OC1PolarityConfig
+                0x00000000       0x10 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_OC1NPolarityConfig
+                0x00000000       0x10 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_OC2PolarityConfig
+                0x00000000       0x14 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_OC2NPolarityConfig
+                0x00000000       0x14 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_OC3PolarityConfig
+                0x00000000       0x14 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_OC3NPolarityConfig
+                0x00000000       0x14 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_OC4PolarityConfig
+                0x00000000       0x14 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_CCxCmd
+                0x00000000       0x1c ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_CCxNCmd
+                0x00000000       0x1c ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_SelectOCxM
+                0x00000000       0x40 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_UpdateDisableConfig
+                0x00000000       0x16 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_UpdateRequestConfig
+                0x00000000       0x16 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_SelectHallSensor
+                0x00000000       0x16 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_SelectOnePulseMode
+                0x00000000       0x14 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_SelectOutputTrigger
+                0x00000000       0x14 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_SelectSlaveMode
+                0x00000000       0x14 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_SelectMasterSlaveMode
+                0x00000000       0x14 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_SetCounter
+                0x00000000        0x4 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_SetAutoreload
+                0x00000000        0x4 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_SetCompare1
+                0x00000000        0x4 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_SetCompare2
+                0x00000000        0x4 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_SetCompare3
+                0x00000000        0x4 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_SetCompare4
+                0x00000000        0x6 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_SetIC1Prescaler
+                0x00000000       0x14 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_SetIC2Prescaler
+                0x00000000       0x18 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_PWMIConfig
+                0x00000000       0x60 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_SetIC3Prescaler
+                0x00000000       0x14 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_SetIC4Prescaler
+                0x00000000       0x18 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_ICInit
+                0x00000000      0x128 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_SetClockDivision
+                0x00000000       0x14 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_GetCapture1
+                0x00000000        0x4 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_GetCapture2
+                0x00000000        0x4 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_GetCapture3
+                0x00000000        0x4 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_GetCapture4
+                0x00000000        0x6 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_GetCounter
+                0x00000000        0x4 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_GetPrescaler
+                0x00000000        0x4 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_GetFlagStatus
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_ClearFlag
+                0x00000000        0x8 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_GetITStatus
+                0x00000000       0x16 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_ClearITPendingBit
+                0x00000000        0x8 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .debug_info    0x00000000     0x2666 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .debug_abbrev  0x00000000      0x382 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .debug_loc     0x00000000     0x220d ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .debug_aranges
+                0x00000000      0x2d0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .debug_ranges  0x00000000      0x308 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .debug_line    0x00000000     0x1a9b ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .debug_str     0x00000000      0xec3 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .comment       0x00000000       0x77 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .debug_frame   0x00000000      0x6b0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .ARM.attributes
+                0x00000000       0x2d ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text          0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .data          0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .bss           0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .text.USART_DeInit
+                0x00000000       0x9c ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .text.USART_Init
+                0x00000000       0xa0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .text.USART_StructInit
+                0x00000000       0x14 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .text.USART_ClockInit
+                0x00000000       0x1e ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .text.USART_ClockStructInit
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .text.USART_Cmd
+                0x00000000       0x16 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .text.USART_ITConfig
+                0x00000000       0x30 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .text.USART_DMACmd
+                0x00000000       0x10 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .text.USART_SetAddress
+                0x00000000       0x14 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .text.USART_WakeUpConfig
+                0x00000000       0x14 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .text.USART_ReceiverWakeUpCmd
+                0x00000000       0x16 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .text.USART_LINBreakDetectLengthConfig
+                0x00000000       0x14 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .text.USART_LINCmd
+                0x00000000       0x16 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .text.USART_SendData
+                0x00000000        0x8 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .text.USART_ReceiveData
+                0x00000000        0x8 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .text.USART_SendBreak
+                0x00000000        0xa ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .text.USART_SetGuardTime
+                0x00000000       0x10 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .text.USART_SetPrescaler
+                0x00000000       0x10 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .text.USART_SmartCardCmd
+                0x00000000       0x16 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .text.USART_SmartCardNACKCmd
+                0x00000000       0x16 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .text.USART_HalfDuplexCmd
+                0x00000000       0x16 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .text.USART_OverSampling8Cmd
+                0x00000000       0x12 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .text.USART_OneBitMethodCmd
+                0x00000000       0x16 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .text.USART_IrDAConfig
+                0x00000000       0x14 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .text.USART_IrDACmd
+                0x00000000       0x16 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .text.USART_GetFlagStatus
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .text.USART_ClearFlag
+                0x00000000        0x8 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .text.USART_GetITStatus
+                0x00000000       0x3e ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .text.USART_ClearITPendingBit
+                0x00000000        0xe ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .debug_info    0x00000000      0xcae ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .debug_abbrev  0x00000000      0x25d ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .debug_loc     0x00000000      0x9fe ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .debug_aranges
+                0x00000000      0x100 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .debug_ranges  0x00000000       0xf0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .debug_line    0x00000000      0x949 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .debug_str     0x00000000      0x788 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .comment       0x00000000       0x77 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .debug_frame   0x00000000      0x224 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .ARM.attributes
+                0x00000000       0x2d ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .text          0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_crc.o
+ .data          0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_crc.o
+ .bss           0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_crc.o
+ .text.CRC_ResetDR
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_crc.o
+ .text.CRC_CalcCRC
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_crc.o
+ .text.CRC_CalcBlockCRC
+                0x00000000       0x1c ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_crc.o
+ .text.CRC_GetCRC
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_crc.o
+ .text.CRC_SetIDRegister
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_crc.o
+ .text.CRC_GetIDRegister
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_crc.o
+ .debug_info    0x00000000      0x251 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_crc.o
+ .debug_abbrev  0x00000000      0x15a ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_crc.o
+ .debug_loc     0x00000000       0x83 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_crc.o
+ .debug_aranges
+                0x00000000       0x48 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_crc.o
+ .debug_ranges  0x00000000       0x38 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_crc.o
+ .debug_line    0x00000000      0x287 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_crc.o
+ .debug_str     0x00000000      0x2f3 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_crc.o
+ .comment       0x00000000       0x77 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_crc.o
+ .debug_frame   0x00000000       0x70 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_crc.o
+ .ARM.attributes
+                0x00000000       0x2d ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_crc.o
+ .text          0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rtc.o
+ .data          0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rtc.o
+ .bss           0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rtc.o
+ .text.RTC_ITConfig
+                0x00000000       0x18 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rtc.o
+ .text.RTC_EnterConfigMode
+                0x00000000       0x10 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rtc.o
+ .text.RTC_ExitConfigMode
+                0x00000000       0x14 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rtc.o
+ .text.RTC_GetCounter
+                0x00000000       0x10 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rtc.o
+ .text.RTC_SetCounter
+                0x00000000       0x1c ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rtc.o
+ .text.RTC_SetPrescaler
+                0x00000000       0x20 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rtc.o
+ .text.RTC_SetAlarm
+                0x00000000       0x1c ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rtc.o
+ .text.RTC_GetDivider
+                0x00000000       0x14 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rtc.o
+ .text.RTC_WaitForLastTask
+                0x00000000       0x10 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rtc.o
+ .text.RTC_WaitForSynchro
+                0x00000000       0x1c ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rtc.o
+ .text.RTC_GetFlagStatus
+                0x00000000       0x14 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rtc.o
+ .text.RTC_ClearFlag
+                0x00000000       0x10 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rtc.o
+ .text.RTC_GetITStatus
+                0x00000000       0x20 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rtc.o
+ .text.RTC_ClearITPendingBit
+                0x00000000        0x4 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rtc.o
+ .debug_info    0x00000000      0x535 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rtc.o
+ .debug_abbrev  0x00000000      0x225 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rtc.o
+ .debug_loc     0x00000000      0x2ba ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rtc.o
+ .debug_aranges
+                0x00000000       0x80 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rtc.o
+ .debug_ranges  0x00000000       0x70 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rtc.o
+ .debug_line    0x00000000      0x415 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rtc.o
+ .debug_str     0x00000000      0x45a ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rtc.o
+ .comment       0x00000000       0x77 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rtc.o
+ .debug_frame   0x00000000      0x114 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rtc.o
+ .ARM.attributes
+                0x00000000       0x2d ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rtc.o
+ .text          0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+ .data          0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+ .bss           0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+ .text.FLASH_SetLatency
+                0x00000000       0x14 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+ .text.FLASH_HalfCycleAccessCmd
+                0x00000000       0x18 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+ .text.FLASH_PrefetchBufferCmd
+                0x00000000       0x18 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+ .text.FLASH_Unlock
+                0x00000000       0x18 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+ .text.FLASH_UnlockBank1
+                0x00000000        0x4 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+ .text.FLASH_Lock
+                0x00000000       0x10 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+ .text.FLASH_LockBank1
+                0x00000000        0x4 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+ .text.FLASH_GetUserOptionByte
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+ .text.FLASH_GetWriteProtectionOptionByte
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+ .text.FLASH_GetReadOutProtectionStatus
+                0x00000000       0x10 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+ .text.FLASH_GetPrefetchBufferStatus
+                0x00000000       0x10 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+ .text.FLASH_ITConfig
+                0x00000000       0x1c ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+ .text.FLASH_GetFlagStatus
+                0x00000000       0x20 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+ .text.FLASH_ClearFlag
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+ .text.FLASH_GetStatus
+                0x00000000       0x28 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+ .text.FLASH_GetBank1Status
+                0x00000000       0x28 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+ .text.FLASH_WaitForLastOperation
+                0x00000000       0x22 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+ .text.FLASH_ErasePage
+                0x00000000       0x40 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+ .text.FLASH_EraseAllPages
+                0x00000000       0x3c ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+ .text.FLASH_EraseAllBank1Pages
+                0x00000000        0x4 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+ .text.FLASH_EraseOptionBytes
+                0x00000000       0x80 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+ .text.FLASH_ProgramWord
+                0x00000000       0x58 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+ .text.FLASH_ProgramHalfWord
+                0x00000000       0x38 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+ .text.FLASH_ProgramOptionByteData
+                0x00000000       0x4c ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+ .text.FLASH_EnableWriteProtection
+                0x00000000       0xa8 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+ .text.FLASH_ReadOutProtection
+                0x00000000       0x94 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+ .text.FLASH_UserOptionByteConfig
+                0x00000000       0x5c ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+ .text.FLASH_WaitForLastBank1Operation
+                0x00000000        0x4 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+ .debug_info    0x00000000      0xb6b ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+ .debug_abbrev  0x00000000      0x2b4 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+ .debug_loc     0x00000000      0xa2a ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+ .debug_aranges
+                0x00000000       0xd8 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+ .debug_ranges  0x00000000       0xc8 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+ .debug_line    0x00000000      0x9dd ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+ .debug_str     0x00000000      0x6a0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+ .comment       0x00000000       0x77 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+ .debug_frame   0x00000000      0x244 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+ .ARM.attributes
+                0x00000000       0x2d ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+ .text          0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .data          0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .bss           0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_DeInit
+                0x00000000       0x40 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_HSEConfig
+                0x00000000       0x38 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_AdjustHSICalibrationValue
+                0x00000000       0x14 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_HSICmd
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_PLLConfig
+                0x00000000       0x14 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_PLLCmd
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_SYSCLKConfig
+                0x00000000       0x14 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_GetSYSCLKSource
+                0x00000000       0x10 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_HCLKConfig
+                0x00000000       0x14 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_PCLK1Config
+                0x00000000       0x14 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_PCLK2Config
+                0x00000000       0x14 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_ITConfig
+                0x00000000       0x1c ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_USBCLKConfig
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_ADCCLKConfig
+                0x00000000       0x14 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_LSEConfig
+                0x00000000       0x20 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_LSICmd
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_RTCCLKConfig
+                0x00000000       0x10 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_RTCCLKCmd
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_GetClocksFreq
+                0x00000000       0x88 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_AHBPeriphClockCmd
+                0x00000000       0x1c ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_APB1PeriphClockCmd
+                0x00000000       0x1c ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_APB2PeriphResetCmd
+                0x00000000       0x1c ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_APB1PeriphResetCmd
+                0x00000000       0x1c ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_BackupResetCmd
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_ClockSecuritySystemCmd
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_MCOConfig
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_GetFlagStatus
+                0x00000000       0x28 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_WaitForHSEStartUp
+                0x00000000       0x30 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_ClearFlag
+                0x00000000       0x10 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_GetITStatus
+                0x00000000       0x14 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_ClearITPendingBit
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .data.ADCPrescTable
+                0x00000000        0x4 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .data.APBAHBPrescTable
+                0x00000000       0x10 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text          0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+ .data          0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+ .bss           0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+ .text.SDIO_DeInit
+                0x00000000       0x24 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+ .text.SDIO_Init
+                0x00000000       0x30 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+ .text.SDIO_StructInit
+                0x00000000       0x10 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+ .text.SDIO_ClockCmd
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+ .text.SDIO_SetPowerState
+                0x00000000       0x18 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+ .text.SDIO_GetPowerState
+                0x00000000       0x10 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+ .text.SDIO_ITConfig
+                0x00000000       0x1c ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+ .text.SDIO_DMACmd
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+ .text.SDIO_SendCommand
+                0x00000000       0x2c ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+ .text.SDIO_CmdStructInit
+                0x00000000        0xe ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+ .text.SDIO_GetCommandResponse
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+ .text.SDIO_GetResponse
+                0x00000000       0x18 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+ .text.SDIO_DataConfig
+                0x00000000       0x2c ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+ .text.SDIO_DataStructInit
+                0x00000000       0x14 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+ .text.SDIO_GetDataCounter
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+ .text.SDIO_ReadData
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+ .text.SDIO_WriteData
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+ .text.SDIO_GetFIFOCount
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+ .text.SDIO_StartSDIOReadWait
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+ .text.SDIO_StopSDIOReadWait
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+ .text.SDIO_SetSDIOReadWaitMode
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+ .text.SDIO_SetSDIOOperation
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+ .text.SDIO_SendSDIOSuspendCmd
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+ .text.SDIO_CommandCompletionCmd
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+ .text.SDIO_CEATAITCmd
+                0x00000000       0x10 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+ .text.SDIO_SendCEATACmd
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+ .text.SDIO_GetFlagStatus
+                0x00000000       0x14 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+ .text.SDIO_ClearFlag
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+ .text.SDIO_GetITStatus
+                0x00000000        0x4 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+ .text.SDIO_ClearITPendingBit
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+ .debug_info    0x00000000      0x931 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+ .debug_abbrev  0x00000000      0x2e8 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+ .debug_loc     0x00000000      0x267 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+ .debug_aranges
+                0x00000000       0xf8 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+ .debug_ranges  0x00000000       0xe8 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+ .debug_line    0x00000000      0x694 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+ .debug_str     0x00000000      0x6e8 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+ .comment       0x00000000       0x77 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+ .debug_frame   0x00000000      0x210 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+ .ARM.attributes
+                0x00000000       0x2d ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+ .text          0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+ .data          0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+ .bss           0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+ .text.I2C_DeInit
+                0x00000000       0x34 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+ .text.I2C_Init
+                0x00000000       0xc8 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+ .text.I2C_StructInit
+                0x00000000       0x1c ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+ .text.I2C_Cmd  0x00000000       0x16 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+ .text.I2C_DMACmd
+                0x00000000       0x16 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+ .text.I2C_DMALastTransferCmd
+                0x00000000       0x16 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+ .text.I2C_GenerateSTART
+                0x00000000       0x16 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+ .text.I2C_GenerateSTOP
+                0x00000000       0x16 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+ .text.I2C_AcknowledgeConfig
+                0x00000000       0x16 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+ .text.I2C_OwnAddress2Config
+                0x00000000       0x12 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+ .text.I2C_DualAddressCmd
+                0x00000000       0x16 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+ .text.I2C_GeneralCallCmd
+                0x00000000       0x16 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+ .text.I2C_ITConfig
+                0x00000000       0x10 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+ .text.I2C_SendData
+                0x00000000        0x4 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+ .text.I2C_ReceiveData
+                0x00000000        0x6 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+ .text.I2C_Send7bitAddress
+                0x00000000       0x12 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+ .text.I2C_ReadRegister
+                0x00000000       0x16 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+ .text.I2C_SoftwareResetCmd
+                0x00000000       0x12 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+ .text.I2C_NACKPositionConfig
+                0x00000000       0x18 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+ .text.I2C_SMBusAlertConfig
+                0x00000000       0x18 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+ .text.I2C_TransmitPEC
+                0x00000000       0x16 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+ .text.I2C_PECPositionConfig
+                0x00000000        0x4 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+ .text.I2C_CalculatePEC
+                0x00000000       0x16 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+ .text.I2C_GetPEC
+                0x00000000        0x6 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+ .text.I2C_ARPCmd
+                0x00000000       0x16 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+ .text.I2C_StretchClockCmd
+                0x00000000       0x16 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+ .text.I2C_FastModeDutyCycleConfig
+                0x00000000       0x18 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+ .text.I2C_CheckEvent
+                0x00000000       0x16 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+ .text.I2C_GetLastEvent
+                0x00000000        0xe ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+ .text.I2C_GetFlagStatus
+                0x00000000       0x34 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+ .text.I2C_ClearFlag
+                0x00000000        0x8 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+ .text.I2C_GetITStatus
+                0x00000000       0x1a ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+ .text.I2C_ClearITPendingBit
+                0x00000000        0x8 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+ .debug_info    0x00000000      0xd43 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+ .debug_abbrev  0x00000000      0x2bd ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+ .debug_loc     0x00000000      0x7fe ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+ .debug_aranges
+                0x00000000      0x110 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+ .debug_ranges  0x00000000      0x100 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+ .debug_line    0x00000000      0x971 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+ .debug_str     0x00000000      0x747 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+ .comment       0x00000000       0x77 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+ .debug_frame   0x00000000      0x258 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+ .ARM.attributes
+                0x00000000       0x2d ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+ .text          0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_pwr.o
+ .data          0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_pwr.o
+ .bss           0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_pwr.o
+ .text.PWR_DeInit
+                0x00000000       0x1a ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_pwr.o
+ .text.PWR_BackupAccessCmd
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_pwr.o
+ .text.PWR_PVDCmd
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_pwr.o
+ .text.PWR_PVDLevelConfig
+                0x00000000       0x14 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_pwr.o
+ .text.PWR_WakeUpPinCmd
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_pwr.o
+ .text.PWR_EnterSTOPMode
+                0x00000000       0x34 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_pwr.o
+ .text.PWR_EnterSTANDBYMode
+                0x00000000       0x28 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_pwr.o
+ .text.PWR_GetFlagStatus
+                0x00000000       0x14 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_pwr.o
+ .text.PWR_ClearFlag
+                0x00000000       0x10 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_pwr.o
+ .debug_info    0x00000000      0x55c ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_pwr.o
+ .debug_abbrev  0x00000000      0x239 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_pwr.o
+ .debug_loc     0x00000000      0x15f ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_pwr.o
+ .debug_aranges
+                0x00000000       0x60 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_pwr.o
+ .debug_ranges  0x00000000       0x50 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_pwr.o
+ .debug_line    0x00000000      0x3bf ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_pwr.o
+ .debug_str     0x00000000      0x3e1 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_pwr.o
+ .comment       0x00000000       0x77 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_pwr.o
+ .debug_frame   0x00000000       0xac ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_pwr.o
+ .ARM.attributes
+                0x00000000       0x2d ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_pwr.o
+ .text          0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+ .data          0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+ .bss           0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+ .text.CAN_DeInit
+                0x00000000       0x34 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+ .text.CAN_Init
+                0x00000000       0xd4 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+ .text.CAN_FilterInit
+                0x00000000       0xdc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+ .text.CAN_StructInit
+                0x00000000       0x16 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+ .text.CAN_SlaveStartBank
+                0x00000000       0x3c ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+ .text.CAN_DBGFreeze
+                0x00000000       0x12 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+ .text.CAN_TTComModeCmd
+                0x00000000       0x58 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+ .text.CAN_Transmit
+                0x00000000       0x9a ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+ .text.CAN_TransmitStatus
+                0x00000000       0x6c ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+ .text.CAN_CancelTransmit
+                0x00000000       0x26 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+ .text.CAN_Receive
+                0x00000000       0x94 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+ .text.CAN_FIFORelease
+                0x00000000       0x16 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+ .text.CAN_MessagePending
+                0x00000000       0x16 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+ .text.CAN_OperatingModeRequest
+                0x00000000       0x88 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+ .text.CAN_Sleep
+                0x00000000       0x1a ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+ .text.CAN_WakeUp
+                0x00000000       0x22 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+ .text.CAN_GetLastErrorCode
+                0x00000000        0x8 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+ .text.CAN_GetReceiveErrorCounter
+                0x00000000        0x6 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+ .text.CAN_GetLSBTransmitErrorCounter
+                0x00000000        0x8 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+ .text.CAN_ITConfig
+                0x00000000       0x14 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+ .text.CAN_GetFlagStatus
+                0x00000000       0x30 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+ .text.CAN_ClearFlag
+                0x00000000       0x30 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+ .text.CAN_GetITStatus
+                0x00000000       0xc2 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+ .text.CAN_ClearITPendingBit
+                0x00000000       0x7c ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+ .debug_info    0x00000000     0x11eb ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+ .debug_abbrev  0x00000000      0x350 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+ .debug_loc     0x00000000      0xd0c ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+ .debug_aranges
+                0x00000000       0xd8 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+ .debug_ranges  0x00000000      0x128 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+ .debug_line    0x00000000      0xdab ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+ .debug_str     0x00000000      0x7fd ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+ .comment       0x00000000       0x77 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+ .debug_frame   0x00000000      0x1c8 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+ .ARM.attributes
+                0x00000000       0x2d ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+ .text          0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dac.o
+ .data          0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dac.o
+ .bss           0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dac.o
+ .text.DAC_DeInit
+                0x00000000       0x1a ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dac.o
+ .text.DAC_Init
+                0x00000000       0x2c ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dac.o
+ .text.DAC_StructInit
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dac.o
+ .text.DAC_Cmd  0x00000000       0x1c ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dac.o
+ .text.DAC_DMACmd
+                0x00000000       0x20 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dac.o
+ .text.DAC_SoftwareTriggerCmd
+                0x00000000       0x20 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dac.o
+ .text.DAC_DualSoftwareTriggerCmd
+                0x00000000       0x18 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dac.o
+ .text.DAC_WaveGenerationCmd
+                0x00000000       0x1c ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dac.o
+ .text.DAC_SetChannel1Data
+                0x00000000       0x20 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dac.o
+ .text.DAC_SetChannel2Data
+                0x00000000       0x20 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dac.o
+ .text.DAC_SetDualChannelData
+                0x00000000       0x18 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dac.o
+ .text.DAC_GetDataOutputValue
+                0x00000000       0x24 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dac.o
+ .debug_info    0x00000000      0x5cd ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dac.o
+ .debug_abbrev  0x00000000      0x24d ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dac.o
+ .debug_loc     0x00000000      0x33d ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dac.o
+ .debug_aranges
+                0x00000000       0x78 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dac.o
+ .debug_ranges  0x00000000       0x68 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dac.o
+ .debug_line    0x00000000      0x4bb ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dac.o
+ .debug_str     0x00000000      0x47e ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dac.o
+ .comment       0x00000000       0x77 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dac.o
+ .debug_frame   0x00000000      0x100 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dac.o
+ .ARM.attributes
+                0x00000000       0x2d ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dac.o
+ .text          0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dbgmcu.o
+ .data          0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dbgmcu.o
+ .bss           0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dbgmcu.o
+ .text.DBGMCU_GetREVID
+                0x00000000        0xc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dbgmcu.o
+ .text.DBGMCU_GetDEVID
+                0x00000000       0x10 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dbgmcu.o
+ .text.DBGMCU_Config
+                0x00000000       0x1c ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dbgmcu.o
+ .debug_info    0x00000000      0x180 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dbgmcu.o
+ .debug_abbrev  0x00000000      0x121 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dbgmcu.o
+ .debug_loc     0x00000000       0x32 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dbgmcu.o
+ .debug_aranges
+                0x00000000       0x30 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dbgmcu.o
+ .debug_ranges  0x00000000       0x20 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dbgmcu.o
+ .debug_line    0x00000000      0x220 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dbgmcu.o
+ .debug_str     0x00000000      0x2aa ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dbgmcu.o
+ .comment       0x00000000       0x77 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dbgmcu.o
+ .debug_frame   0x00000000       0x40 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dbgmcu.o
+ .ARM.attributes
+                0x00000000       0x2d ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dbgmcu.o
+ .text          0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dma.o
+ .data          0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dma.o
+ .bss           0x00000000        0x0 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dma.o
+ .text.DMA_DeInit
+                0x00000000       0xf4 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dma.o
+ .text.DMA_Init
+                0x00000000       0x3c ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dma.o
+ .text.DMA_StructInit
+                0x00000000       0x1a ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dma.o
+ .text.DMA_Cmd  0x00000000       0x16 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dma.o
+ .text.DMA_ITConfig
+                0x00000000       0x14 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dma.o
+ .text.DMA_SetCurrDataCounter
+                0x00000000        0x4 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dma.o
+ .text.DMA_GetCurrDataCounter
+                0x00000000        0x6 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dma.o
+ .text.DMA_GetFlagStatus
+                0x00000000       0x1c ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dma.o
+ .text.DMA_ClearFlag
+                0x00000000       0x14 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dma.o
+ .text.DMA_GetITStatus
+                0x00000000        0x4 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dma.o
+ .text.DMA_ClearITPendingBit
+                0x00000000        0x4 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dma.o
+ .debug_info    0x00000000      0x4f3 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dma.o
+ .debug_abbrev  0x00000000      0x20a ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dma.o
+ .debug_loc     0x00000000      0x177 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dma.o
+ .debug_aranges
+                0x00000000       0x60 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dma.o
+ .debug_ranges  0x00000000       0x50 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dma.o
+ .debug_line    0x00000000      0x50d ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dma.o
+ .debug_str     0x00000000      0x46f ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dma.o
+ .comment       0x00000000       0x77 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dma.o
+ .debug_frame   0x00000000       0xc8 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dma.o
+ .ARM.attributes
+                0x00000000       0x2d ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dma.o
+ .text          0x00000000        0x0 ../Drivers/stm32_delay.o
+ .data          0x00000000        0x0 ../Drivers/stm32_delay.o
+ .bss           0x00000000        0x0 ../Drivers/stm32_delay.o
+ .text.Delay_Us
+                0x00000000       0x38 ../Drivers/stm32_delay.o
+ .text          0x00000000        0x0 ../User/main.o
+ .data          0x00000000        0x0 ../User/main.o
+ .bss           0x00000000        0x0 ../User/main.o
+ .text          0x00000000        0x0 ../User/stm32f10x_it.o
+ .data          0x00000000        0x0 ../User/stm32f10x_it.o
+ .bss           0x00000000        0x0 ../User/stm32f10x_it.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+flash            0x08000000         0x00010000         xr
+ram              0x20000000         0x00005000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+LOAD ../Libraries/Stm32F10x_Fwlib/CMSIS/system_stm32f10x.o
+LOAD ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+LOAD ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+LOAD ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
+LOAD ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.o
+LOAD ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_bkp.o
+LOAD ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+LOAD ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+LOAD ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_iwdg.o
+LOAD ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/misc.o
+LOAD ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.o
+LOAD ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_wwdg.o
+LOAD ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+LOAD ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+LOAD ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_crc.o
+LOAD ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rtc.o
+LOAD ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+LOAD ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+LOAD ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+LOAD ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+LOAD ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_pwr.o
+LOAD ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+LOAD ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dac.o
+LOAD ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dbgmcu.o
+LOAD ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dma.o
+LOAD ../Drivers/stm32_delay.o
+LOAD ../User/main.o
+LOAD ../User/stm32f10x_it.o
+LOAD c:/program files (x86)/gnu tools arm embedded/8 2019-q3-update/bin/../lib/gcc/arm-none-eabi/8.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libm.a
+START GROUP
+LOAD c:/program files (x86)/gnu tools arm embedded/8 2019-q3-update/bin/../lib/gcc/arm-none-eabi/8.3.1/thumb/v7-m/nofp\libgcc.a
+LOAD c:/program files (x86)/gnu tools arm embedded/8 2019-q3-update/bin/../lib/gcc/arm-none-eabi/8.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a
+LOAD c:/program files (x86)/gnu tools arm embedded/8 2019-q3-update/bin/../lib/gcc/arm-none-eabi/8.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/gnu tools arm embedded/8 2019-q3-update/bin/../lib/gcc/arm-none-eabi/8.3.1/thumb/v7-m/nofp\libgcc.a
+LOAD c:/program files (x86)/gnu tools arm embedded/8 2019-q3-update/bin/../lib/gcc/arm-none-eabi/8.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc.a
+LOAD c:/program files (x86)/gnu tools arm embedded/8 2019-q3-update/bin/../lib/gcc/arm-none-eabi/8.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\librdimon.a
+END GROUP
+                0x00000200                _heap_size = 0x200
+                0x00000400                _stack_size = 0x400
+                0x20005000                _estack = (ORIGIN (ram) + LENGTH (ram))
+
+.isr_vector     0x08000000      0x10c
+                0x08000000                __isr_vector_start__ = .
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x10c ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+                0x08000000                g_pfnVectors
+                0x00000001                ASSERT ((. != __isr_vector_start__), The .isr_vector section is empty)
+
+.text           0x0800010c      0x300
+                0x0800010c                . = ALIGN (0x4)
+                0x0800010c                _stext = .
+ *(.text*)
+ .text.Reset_Handler
+                0x0800010c       0x44 ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+                0x0800010c                Reset_Handler
+ .text.Default_Handler
+                0x08000150        0x2 ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+                0x08000150                EXTI2_IRQHandler
+                0x08000150                TIM1_CC_IRQHandler
+                0x08000150                PVD_IRQHandler
+                0x08000150                EXTI3_IRQHandler
+                0x08000150                EXTI0_IRQHandler
+                0x08000150                I2C2_EV_IRQHandler
+                0x08000150                ADC1_2_IRQHandler
+                0x08000150                SPI1_IRQHandler
+                0x08000150                TAMPER_IRQHandler
+                0x08000150                DMA1_Channel4_IRQHandler
+                0x08000150                USART3_IRQHandler
+                0x08000150                RTC_IRQHandler
+                0x08000150                DMA1_Channel7_IRQHandler
+                0x08000150                CAN1_RX1_IRQHandler
+                0x08000150                TIM4_IRQHandler
+                0x08000150                I2C1_EV_IRQHandler
+                0x08000150                DMA1_Channel6_IRQHandler
+                0x08000150                TIM3_IRQHandler
+                0x08000150                RCC_IRQHandler
+                0x08000150                TIM1_TRG_COM_IRQHandler
+                0x08000150                DMA1_Channel1_IRQHandler
+                0x08000150                Default_Handler
+                0x08000150                EXTI15_10_IRQHandler
+                0x08000150                EXTI9_5_IRQHandler
+                0x08000150                SPI2_IRQHandler
+                0x08000150                DMA1_Channel5_IRQHandler
+                0x08000150                EXTI4_IRQHandler
+                0x08000150                USB_LP_CAN1_RX0_IRQHandler
+                0x08000150                USB_HP_CAN1_TX_IRQHandler
+                0x08000150                DMA1_Channel3_IRQHandler
+                0x08000150                TIM1_UP_IRQHandler
+                0x08000150                WWDG_IRQHandler
+                0x08000150                TIM2_IRQHandler
+                0x08000150                TIM1_BRK_IRQHandler
+                0x08000150                EXTI1_IRQHandler
+                0x08000150                RTCAlarm_IRQHandler
+                0x08000150                USART2_IRQHandler
+                0x08000150                I2C2_ER_IRQHandler
+                0x08000150                DMA1_Channel2_IRQHandler
+                0x08000150                CAN1_SCE_IRQHandler
+                0x08000150                FLASH_IRQHandler
+                0x08000150                USART1_IRQHandler
+                0x08000150                I2C1_ER_IRQHandler
+                0x08000150                USBWakeUp_IRQHandler
+ *fill*         0x08000152        0x2 
+ .text.SystemInit
+                0x08000154       0xf0 ../Libraries/Stm32F10x_Fwlib/CMSIS/system_stm32f10x.o
+                0x08000154                SystemInit
+ .text.GPIO_Init
+                0x08000244       0xa2 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+                0x08000244                GPIO_Init
+ .text.GPIO_SetBits
+                0x080002e6        0x4 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+                0x080002e6                GPIO_SetBits
+ .text.GPIO_ResetBits
+                0x080002ea        0x4 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+                0x080002ea                GPIO_ResetBits
+ *fill*         0x080002ee        0x2 
+ .text.SysTick_CLKSourceConfig
+                0x080002f0       0x18 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/misc.o
+                0x080002f0                SysTick_CLKSourceConfig
+ .text.RCC_APB2PeriphClockCmd
+                0x08000308       0x1c ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+                0x08000308                RCC_APB2PeriphClockCmd
+ .text.Delay_Init
+                0x08000324       0x34 ../Drivers/stm32_delay.o
+                0x08000324                Delay_Init
+ .text.Delay_Ms
+                0x08000358       0x38 ../Drivers/stm32_delay.o
+                0x08000358                Delay_Ms
+ .text.LED_Init
+                0x08000390       0x28 ../User/main.o
+                0x08000390                LED_Init
+ .text.startup.main
+                0x080003b8       0x40 ../User/main.o
+                0x080003b8                main
+ .text.NMI_Handler
+                0x080003f8        0x2 ../User/stm32f10x_it.o
+                0x080003f8                NMI_Handler
+ .text.HardFault_Handler
+                0x080003fa        0x2 ../User/stm32f10x_it.o
+                0x080003fa                HardFault_Handler
+ .text.MemManage_Handler
+                0x080003fc        0x2 ../User/stm32f10x_it.o
+                0x080003fc                MemManage_Handler
+ .text.BusFault_Handler
+                0x080003fe        0x2 ../User/stm32f10x_it.o
+                0x080003fe                BusFault_Handler
+ .text.UsageFault_Handler
+                0x08000400        0x2 ../User/stm32f10x_it.o
+                0x08000400                UsageFault_Handler
+ .text.SVC_Handler
+                0x08000402        0x2 ../User/stm32f10x_it.o
+                0x08000402                SVC_Handler
+ .text.DebugMon_Handler
+                0x08000404        0x2 ../User/stm32f10x_it.o
+                0x08000404                DebugMon_Handler
+ .text.PendSV_Handler
+                0x08000406        0x2 ../User/stm32f10x_it.o
+                0x08000406                PendSV_Handler
+ .text.SysTick_Handler
+                0x08000408        0x2 ../User/stm32f10x_it.o
+                0x08000408                SysTick_Handler
+ *(.rodata*)
+ *(.init)
+ *(.fini)
+                0x0800040c                . = ALIGN (0x4)
+ *fill*         0x0800040a        0x2 
+                0x0800040c                _etext = .
+
+.glue_7         0x0800040c        0x0
+ .glue_7        0x0800040c        0x0 linker stubs
+
+.glue_7t        0x0800040c        0x0
+ .glue_7t       0x0800040c        0x0 linker stubs
+
+.vfp11_veneer   0x0800040c        0x0
+ .vfp11_veneer  0x0800040c        0x0 linker stubs
+
+.v4_bx          0x0800040c        0x0
+ .v4_bx         0x0800040c        0x0 linker stubs
+
+.iplt           0x0800040c        0x0
+ .iplt          0x0800040c        0x0 ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+
+.rel.dyn        0x0800040c        0x0
+ .rel.iplt      0x0800040c        0x0 ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+
+.ARM.extab
+ *(.ARM.extab*)
+
+.ARM.exidx
+ *(.ARM.exidx*)
+
+.preinit_array  0x0800040c        0x0
+                [!provide]                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                [!provide]                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x0800040c        0x0
+                [!provide]                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+                [!provide]                PROVIDE (__init_array_end = .)
+
+.fini_array     0x0800040c        0x0
+                [!provide]                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+                [!provide]                PROVIDE (__fini_array_end = .)
+                0x0800040c                _sidata = .
+
+.data           0x20000000        0x4 load address 0x0800040c
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data*)
+ .data.SystemCoreClock
+                0x20000000        0x4 ../Libraries/Stm32F10x_Fwlib/CMSIS/system_stm32f10x.o
+                0x20000000                SystemCoreClock
+                0x20000004                . = ALIGN (0x4)
+                0x20000004                _edata = .
+
+.igot.plt       0x20000004        0x0 load address 0x08000410
+ .igot.plt      0x20000004        0x0 ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+
+.bss            0x20000004        0x8 load address 0x08000410
+                0x20000004                . = ALIGN (0x4)
+                0x20000004                _sbss = .
+ *(.bss*)
+ .bss.fac_ms    0x20000004        0x4 ../Drivers/stm32_delay.o
+                0x20000004                fac_ms
+ .bss.fac_us    0x20000008        0x4 ../Drivers/stm32_delay.o
+                0x20000008                fac_us
+ *(COMMON)
+                0x2000000c                . = ALIGN (0x4)
+                0x2000000c                _ebss = .
+                0x2000000c                . = ALIGN (0x4)
+                0x2000000c                end = .
+
+._heap          0x2000000c      0x200 load address 0x08000418
+                0x2000000c                . = ALIGN (0x4)
+                0x2000020c                . = (. + _heap_size)
+ *fill*         0x2000000c      0x200 
+                0x2000020c                . = ALIGN (0x4)
+
+._stack         0x2000020c      0x400 load address 0x08000618
+                0x2000020c                . = ALIGN (0x4)
+                0x2000060c                . = (. + _stack_size)
+ *fill*         0x2000020c      0x400 
+                0x2000060c                . = ALIGN (0x4)
+                0x0000010c                __isr_vector_size__ = SIZEOF (.isr_vector)
+                0x00000300                __text_size__ = SIZEOF (.text)
+                0x00000004                __data_size__ = SIZEOF (.data)
+                0x00000008                __bss_size__ = SIZEOF (.bss)
+OUTPUT(Stm32.elf elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x2f
+ .ARM.attributes
+                0x00000000       0x21 ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+ .ARM.attributes
+                0x00000021       0x2d ../Libraries/Stm32F10x_Fwlib/CMSIS/system_stm32f10x.o
+ .ARM.attributes
+                0x0000004e       0x2d ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .ARM.attributes
+                0x0000007b       0x2d ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/misc.o
+ .ARM.attributes
+                0x000000a8       0x2d ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .ARM.attributes
+                0x000000d5       0x2d ../Drivers/stm32_delay.o
+ .ARM.attributes
+                0x00000102       0x2d ../User/main.o
+ .ARM.attributes
+                0x0000012f       0x2d ../User/stm32f10x_it.o
+
+.comment        0x00000000       0x76
+ .comment       0x00000000       0x76 ../Libraries/Stm32F10x_Fwlib/CMSIS/system_stm32f10x.o
+                                 0x77 (size before relaxing)
+ .comment       0x00000076       0x77 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .comment       0x00000076       0x77 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/misc.o
+ .comment       0x00000076       0x77 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .comment       0x00000076       0x77 ../Drivers/stm32_delay.o
+ .comment       0x00000076       0x77 ../User/main.o
+ .comment       0x00000076       0x77 ../User/stm32f10x_it.o
+
+.debug_line     0x00000000     0x1dd2
+ .debug_line    0x00000000       0x97 ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+ .debug_line    0x00000097      0x357 ../Libraries/Stm32F10x_Fwlib/CMSIS/system_stm32f10x.o
+ .debug_line    0x000003ee      0x70d ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .debug_line    0x00000afb      0x31e ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/misc.o
+ .debug_line    0x00000e19      0x8d9 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .debug_line    0x000016f2      0x297 ../Drivers/stm32_delay.o
+ .debug_line    0x00001989      0x26b ../User/main.o
+ .debug_line    0x00001bf4      0x1de ../User/stm32f10x_it.o
+
+.debug_info     0x00000000     0x2563
+ .debug_info    0x00000000       0x22 ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+ .debug_info    0x00000022      0x528 ../Libraries/Stm32F10x_Fwlib/CMSIS/system_stm32f10x.o
+ .debug_info    0x0000054a      0x91b ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .debug_info    0x00000e65      0x5b9 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/misc.o
+ .debug_info    0x0000141e      0xa6f ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .debug_info    0x00001e8d      0x207 ../Drivers/stm32_delay.o
+ .debug_info    0x00002094      0x389 ../User/main.o
+ .debug_info    0x0000241d      0x146 ../User/stm32f10x_it.o
+
+.debug_abbrev   0x00000000      0xc53
+ .debug_abbrev  0x00000000       0x12 ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+ .debug_abbrev  0x00000012      0x206 ../Libraries/Stm32F10x_Fwlib/CMSIS/system_stm32f10x.o
+ .debug_abbrev  0x00000218      0x281 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .debug_abbrev  0x00000499      0x1ba ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/misc.o
+ .debug_abbrev  0x00000653      0x266 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .debug_abbrev  0x000008b9      0x14b ../Drivers/stm32_delay.o
+ .debug_abbrev  0x00000a04      0x199 ../User/main.o
+ .debug_abbrev  0x00000b9d       0xb6 ../User/stm32f10x_it.o
+
+.debug_aranges  0x00000000      0x2e8
+ .debug_aranges
+                0x00000000       0x28 ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+ .debug_aranges
+                0x00000028       0x28 ../Libraries/Stm32F10x_Fwlib/CMSIS/system_stm32f10x.o
+ .debug_aranges
+                0x00000050       0xa8 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .debug_aranges
+                0x000000f8       0x40 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/misc.o
+ .debug_aranges
+                0x00000138      0x118 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .debug_aranges
+                0x00000250       0x30 ../Drivers/stm32_delay.o
+ .debug_aranges
+                0x00000280       0x28 ../User/main.o
+ .debug_aranges
+                0x000002a8       0x40 ../User/stm32f10x_it.o
+
+.debug_str      0x00000000      0xe30
+ .debug_str     0x00000000       0x8c ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+ .debug_str     0x0000008c      0x2c6 ../Libraries/Stm32F10x_Fwlib/CMSIS/system_stm32f10x.o
+                                0x36f (size before relaxing)
+ .debug_str     0x00000352      0x3e1 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+                                0x5e8 (size before relaxing)
+ .debug_str     0x00000733      0x1fd ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/misc.o
+                                0x470 (size before relaxing)
+ .debug_str     0x00000930      0x3dc ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+                                0x6d2 (size before relaxing)
+ .debug_str     0x00000d0c       0x49 ../Drivers/stm32_delay.o
+                                0x273 (size before relaxing)
+ .debug_str     0x00000d55       0x34 ../User/main.o
+                                0x3a6 (size before relaxing)
+ .debug_str     0x00000d89       0xa7 ../User/stm32f10x_it.o
+                                0x288 (size before relaxing)
+
+.debug_ranges   0x00000000      0x288
+ .debug_ranges  0x00000000       0x20 ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+ .debug_ranges  0x00000020       0x30 ../Libraries/Stm32F10x_Fwlib/CMSIS/system_stm32f10x.o
+ .debug_ranges  0x00000050       0x98 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .debug_ranges  0x000000e8       0x30 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/misc.o
+ .debug_ranges  0x00000118      0x108 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .debug_ranges  0x00000220       0x20 ../Drivers/stm32_delay.o
+ .debug_ranges  0x00000240       0x18 ../User/main.o
+ .debug_ranges  0x00000258       0x30 ../User/stm32f10x_it.o
+
+.debug_loc      0x00000000     0x121c
+ .debug_loc     0x00000000       0xe4 ../Libraries/Stm32F10x_Fwlib/CMSIS/system_stm32f10x.o
+ .debug_loc     0x000000e4      0x71b ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .debug_loc     0x000007ff      0x1bb ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/misc.o
+ .debug_loc     0x000009ba      0x782 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .debug_loc     0x0000113c       0x94 ../Drivers/stm32_delay.o
+ .debug_loc     0x000011d0       0x4c ../User/main.o
+
+.debug_frame    0x00000000      0x55c
+ .debug_frame   0x00000000       0x38 ../Libraries/Stm32F10x_Fwlib/CMSIS/system_stm32f10x.o
+ .debug_frame   0x00000038      0x170 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .debug_frame   0x000001a8       0x6c ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/misc.o
+ .debug_frame   0x00000214      0x220 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .debug_frame   0x00000434       0x48 ../Drivers/stm32_delay.o
+ .debug_frame   0x0000047c       0x40 ../User/main.o
+ .debug_frame   0x000004bc       0xa0 ../User/stm32f10x_it.o
+
+Cross Reference Table
+
+Symbol                                            File
+ADC1_2_IRQHandler                                 ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+ADC_AnalogWatchdogCmd                             ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ADC_AnalogWatchdogSingleChannelConfig             ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ADC_AnalogWatchdogThresholdsConfig                ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ADC_AutoInjectedConvCmd                           ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ADC_ClearFlag                                     ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ADC_ClearITPendingBit                             ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ADC_Cmd                                           ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ADC_DMACmd                                        ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ADC_DeInit                                        ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ADC_DiscModeChannelCountConfig                    ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ADC_DiscModeCmd                                   ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ADC_ExternalTrigConvCmd                           ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ADC_ExternalTrigInjectedConvCmd                   ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ADC_ExternalTrigInjectedConvConfig                ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ADC_GetCalibrationStatus                          ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ADC_GetConversionValue                            ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ADC_GetDualModeConversionValue                    ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ADC_GetFlagStatus                                 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ADC_GetITStatus                                   ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ADC_GetInjectedConversionValue                    ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ADC_GetResetCalibrationStatus                     ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ADC_GetSoftwareStartConvStatus                    ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ADC_GetSoftwareStartInjectedConvCmdStatus         ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ADC_ITConfig                                      ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ADC_Init                                          ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ADC_InjectedChannelConfig                         ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ADC_InjectedDiscModeCmd                           ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ADC_InjectedSequencerLengthConfig                 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ADC_RegularChannelConfig                          ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ADC_ResetCalibration                              ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ADC_SetInjectedOffset                             ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ADC_SoftwareStartConvCmd                          ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ADC_SoftwareStartInjectedConvCmd                  ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ADC_StartCalibration                              ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ADC_StructInit                                    ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ADC_TempSensorVrefintCmd                          ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+AHBPrescTable                                     ../Libraries/Stm32F10x_Fwlib/CMSIS/system_stm32f10x.o
+BKP_ClearFlag                                     ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_bkp.o
+BKP_ClearITPendingBit                             ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_bkp.o
+BKP_DeInit                                        ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_bkp.o
+BKP_GetFlagStatus                                 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_bkp.o
+BKP_GetITStatus                                   ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_bkp.o
+BKP_ITConfig                                      ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_bkp.o
+BKP_RTCOutputConfig                               ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_bkp.o
+BKP_ReadBackupRegister                            ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_bkp.o
+BKP_SetRTCCalibrationValue                        ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_bkp.o
+BKP_TamperPinCmd                                  ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_bkp.o
+BKP_TamperPinLevelConfig                          ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_bkp.o
+BKP_WriteBackupRegister                           ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_bkp.o
+BusFault_Handler                                  ../User/stm32f10x_it.o
+                                                  ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+CAN1_RX1_IRQHandler                               ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+CAN1_SCE_IRQHandler                               ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+CAN_CancelTransmit                                ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+CAN_ClearFlag                                     ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+CAN_ClearITPendingBit                             ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+CAN_DBGFreeze                                     ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+CAN_DeInit                                        ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+CAN_FIFORelease                                   ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+CAN_FilterInit                                    ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+CAN_GetFlagStatus                                 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+CAN_GetITStatus                                   ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+CAN_GetLSBTransmitErrorCounter                    ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+CAN_GetLastErrorCode                              ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+CAN_GetReceiveErrorCounter                        ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+CAN_ITConfig                                      ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+CAN_Init                                          ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+CAN_MessagePending                                ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+CAN_OperatingModeRequest                          ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+CAN_Receive                                       ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+CAN_SlaveStartBank                                ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+CAN_Sleep                                         ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+CAN_StructInit                                    ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+CAN_TTComModeCmd                                  ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+CAN_Transmit                                      ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+CAN_TransmitStatus                                ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+CAN_WakeUp                                        ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+CEC_ClearFlag                                     ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.o
+CEC_ClearITPendingBit                             ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.o
+CEC_Cmd                                           ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.o
+CEC_DeInit                                        ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.o
+CEC_EndOfMessageCmd                               ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.o
+CEC_GetFlagStatus                                 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.o
+CEC_GetITStatus                                   ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.o
+CEC_ITConfig                                      ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.o
+CEC_Init                                          ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.o
+CEC_OwnAddressConfig                              ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.o
+CEC_ReceiveDataByte                               ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.o
+CEC_SendDataByte                                  ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.o
+CEC_SetPrescaler                                  ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.o
+CEC_StartOfMessage                                ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.o
+CRC_CalcBlockCRC                                  ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_crc.o
+CRC_CalcCRC                                       ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_crc.o
+CRC_GetCRC                                        ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_crc.o
+CRC_GetIDRegister                                 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_crc.o
+CRC_ResetDR                                       ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_crc.o
+CRC_SetIDRegister                                 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_crc.o
+DAC_Cmd                                           ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dac.o
+DAC_DMACmd                                        ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dac.o
+DAC_DeInit                                        ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dac.o
+DAC_DualSoftwareTriggerCmd                        ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dac.o
+DAC_GetDataOutputValue                            ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dac.o
+DAC_Init                                          ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dac.o
+DAC_SetChannel1Data                               ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dac.o
+DAC_SetChannel2Data                               ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dac.o
+DAC_SetDualChannelData                            ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dac.o
+DAC_SoftwareTriggerCmd                            ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dac.o
+DAC_StructInit                                    ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dac.o
+DAC_WaveGenerationCmd                             ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dac.o
+DBGMCU_Config                                     ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dbgmcu.o
+DBGMCU_GetDEVID                                   ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dbgmcu.o
+DBGMCU_GetREVID                                   ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dbgmcu.o
+DMA1_Channel1_IRQHandler                          ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+DMA1_Channel2_IRQHandler                          ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+DMA1_Channel3_IRQHandler                          ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+DMA1_Channel4_IRQHandler                          ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+DMA1_Channel5_IRQHandler                          ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+DMA1_Channel6_IRQHandler                          ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+DMA1_Channel7_IRQHandler                          ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+DMA_ClearFlag                                     ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dma.o
+DMA_ClearITPendingBit                             ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dma.o
+DMA_Cmd                                           ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dma.o
+DMA_DeInit                                        ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dma.o
+DMA_GetCurrDataCounter                            ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dma.o
+DMA_GetFlagStatus                                 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dma.o
+DMA_GetITStatus                                   ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dma.o
+DMA_ITConfig                                      ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dma.o
+DMA_Init                                          ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dma.o
+DMA_SetCurrDataCounter                            ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dma.o
+DMA_StructInit                                    ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dma.o
+DebugMon_Handler                                  ../User/stm32f10x_it.o
+                                                  ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+Default_Handler                                   ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+Delay_Init                                        ../Drivers/stm32_delay.o
+                                                  ../User/main.o
+Delay_Ms                                          ../Drivers/stm32_delay.o
+                                                  ../User/main.o
+Delay_Us                                          ../Drivers/stm32_delay.o
+EXTI0_IRQHandler                                  ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+EXTI15_10_IRQHandler                              ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+EXTI1_IRQHandler                                  ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+EXTI2_IRQHandler                                  ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+EXTI3_IRQHandler                                  ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+EXTI4_IRQHandler                                  ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+EXTI9_5_IRQHandler                                ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+EXTI_ClearFlag                                    ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.o
+EXTI_ClearITPendingBit                            ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.o
+EXTI_DeInit                                       ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.o
+EXTI_GenerateSWInterrupt                          ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.o
+EXTI_GetFlagStatus                                ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.o
+EXTI_GetITStatus                                  ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.o
+EXTI_Init                                         ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.o
+EXTI_StructInit                                   ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.o
+FLASH_ClearFlag                                   ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+FLASH_EnableWriteProtection                       ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+FLASH_EraseAllBank1Pages                          ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+FLASH_EraseAllPages                               ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+FLASH_EraseOptionBytes                            ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+FLASH_ErasePage                                   ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+FLASH_GetBank1Status                              ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+FLASH_GetFlagStatus                               ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+FLASH_GetPrefetchBufferStatus                     ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+FLASH_GetReadOutProtectionStatus                  ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+FLASH_GetStatus                                   ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+FLASH_GetUserOptionByte                           ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+FLASH_GetWriteProtectionOptionByte                ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+FLASH_HalfCycleAccessCmd                          ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+FLASH_IRQHandler                                  ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+FLASH_ITConfig                                    ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+FLASH_Lock                                        ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+FLASH_LockBank1                                   ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+FLASH_PrefetchBufferCmd                           ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+FLASH_ProgramHalfWord                             ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+FLASH_ProgramOptionByteData                       ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+FLASH_ProgramWord                                 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+FLASH_ReadOutProtection                           ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+FLASH_SetLatency                                  ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+FLASH_Unlock                                      ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+FLASH_UnlockBank1                                 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+FLASH_UserOptionByteConfig                        ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+FLASH_WaitForLastBank1Operation                   ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+FLASH_WaitForLastOperation                        ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.o
+FSMC_ClearFlag                                    ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
+FSMC_ClearITPendingBit                            ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
+FSMC_GetECC                                       ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
+FSMC_GetFlagStatus                                ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
+FSMC_GetITStatus                                  ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
+FSMC_ITConfig                                     ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
+FSMC_NANDCmd                                      ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
+FSMC_NANDDeInit                                   ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
+FSMC_NANDECCCmd                                   ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
+FSMC_NANDInit                                     ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
+FSMC_NANDStructInit                               ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
+FSMC_NORSRAMCmd                                   ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
+FSMC_NORSRAMDeInit                                ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
+FSMC_NORSRAMInit                                  ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
+FSMC_NORSRAMStructInit                            ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
+FSMC_PCCARDCmd                                    ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
+FSMC_PCCARDDeInit                                 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
+FSMC_PCCARDInit                                   ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
+FSMC_PCCARDStructInit                             ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.o
+GPIO_AFIODeInit                                   ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+GPIO_DeInit                                       ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+GPIO_ETH_MediaInterfaceConfig                     ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+GPIO_EXTILineConfig                               ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+GPIO_EventOutputCmd                               ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+GPIO_EventOutputConfig                            ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+GPIO_Init                                         ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+                                                  ../User/main.o
+GPIO_PinLockConfig                                ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+GPIO_PinRemapConfig                               ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+GPIO_ReadInputData                                ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+GPIO_ReadInputDataBit                             ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+GPIO_ReadOutputData                               ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+GPIO_ReadOutputDataBit                            ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+GPIO_ResetBits                                    ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+                                                  ../User/main.o
+GPIO_SetBits                                      ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+                                                  ../User/main.o
+GPIO_StructInit                                   ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+GPIO_Write                                        ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+GPIO_WriteBit                                     ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+HardFault_Handler                                 ../User/stm32f10x_it.o
+                                                  ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+I2C1_ER_IRQHandler                                ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+I2C1_EV_IRQHandler                                ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+I2C2_ER_IRQHandler                                ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+I2C2_EV_IRQHandler                                ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+I2C_ARPCmd                                        ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+I2C_AcknowledgeConfig                             ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+I2C_CalculatePEC                                  ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+I2C_CheckEvent                                    ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+I2C_ClearFlag                                     ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+I2C_ClearITPendingBit                             ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+I2C_Cmd                                           ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+I2C_DMACmd                                        ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+I2C_DMALastTransferCmd                            ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+I2C_DeInit                                        ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+I2C_DualAddressCmd                                ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+I2C_FastModeDutyCycleConfig                       ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+I2C_GeneralCallCmd                                ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+I2C_GenerateSTART                                 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+I2C_GenerateSTOP                                  ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+I2C_GetFlagStatus                                 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+I2C_GetITStatus                                   ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+I2C_GetLastEvent                                  ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+I2C_GetPEC                                        ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+I2C_ITConfig                                      ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+I2C_Init                                          ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+I2C_NACKPositionConfig                            ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+I2C_OwnAddress2Config                             ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+I2C_PECPositionConfig                             ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+I2C_ReadRegister                                  ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+I2C_ReceiveData                                   ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+I2C_SMBusAlertConfig                              ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+I2C_Send7bitAddress                               ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+I2C_SendData                                      ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+I2C_SoftwareResetCmd                              ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+I2C_StretchClockCmd                               ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+I2C_StructInit                                    ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+I2C_TransmitPEC                                   ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+I2S_Cmd                                           ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+I2S_Init                                          ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+I2S_StructInit                                    ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+IWDG_Enable                                       ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_iwdg.o
+IWDG_GetFlagStatus                                ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_iwdg.o
+IWDG_ReloadCounter                                ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_iwdg.o
+IWDG_SetPrescaler                                 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_iwdg.o
+IWDG_SetReload                                    ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_iwdg.o
+IWDG_WriteAccessCmd                               ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_iwdg.o
+LED_Init                                          ../User/main.o
+MemManage_Handler                                 ../User/stm32f10x_it.o
+                                                  ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+NMI_Handler                                       ../User/stm32f10x_it.o
+                                                  ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+NVIC_Init                                         ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/misc.o
+NVIC_PriorityGroupConfig                          ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/misc.o
+NVIC_SetVectorTable                               ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/misc.o
+NVIC_SystemLPConfig                               ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/misc.o
+PVD_IRQHandler                                    ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+PWR_BackupAccessCmd                               ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_pwr.o
+PWR_ClearFlag                                     ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_pwr.o
+PWR_DeInit                                        ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_pwr.o
+PWR_EnterSTANDBYMode                              ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_pwr.o
+PWR_EnterSTOPMode                                 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_pwr.o
+PWR_GetFlagStatus                                 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_pwr.o
+PWR_PVDCmd                                        ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_pwr.o
+PWR_PVDLevelConfig                                ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_pwr.o
+PWR_WakeUpPinCmd                                  ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_pwr.o
+PendSV_Handler                                    ../User/stm32f10x_it.o
+                                                  ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+RCC_ADCCLKConfig                                  ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+RCC_AHBPeriphClockCmd                             ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+RCC_APB1PeriphClockCmd                            ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+RCC_APB1PeriphResetCmd                            ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+                                                  ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_dac.o
+                                                  ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.o
+                                                  ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_pwr.o
+                                                  ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+                                                  ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+                                                  ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+                                                  ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_wwdg.o
+                                                  ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.o
+                                                  ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+RCC_APB2PeriphClockCmd                            ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+                                                  ../User/main.o
+RCC_APB2PeriphResetCmd                            ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+                                                  ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+                                                  ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+                                                  ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+                                                  ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+                                                  ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+RCC_AdjustHSICalibrationValue                     ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+RCC_BackupResetCmd                                ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+                                                  ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_bkp.o
+RCC_ClearFlag                                     ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+RCC_ClearITPendingBit                             ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+RCC_ClockSecuritySystemCmd                        ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+RCC_DeInit                                        ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+RCC_GetClocksFreq                                 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+                                                  ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.o
+                                                  ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+                                                  ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+RCC_GetFlagStatus                                 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+RCC_GetITStatus                                   ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+RCC_GetSYSCLKSource                               ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+RCC_HCLKConfig                                    ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+RCC_HSEConfig                                     ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+RCC_HSICmd                                        ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+RCC_IRQHandler                                    ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+RCC_ITConfig                                      ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+RCC_LSEConfig                                     ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+RCC_LSICmd                                        ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+RCC_MCOConfig                                     ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+RCC_PCLK1Config                                   ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+RCC_PCLK2Config                                   ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+RCC_PLLCmd                                        ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+RCC_PLLConfig                                     ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+RCC_RTCCLKCmd                                     ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+RCC_RTCCLKConfig                                  ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+RCC_SYSCLKConfig                                  ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+RCC_USBCLKConfig                                  ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+RCC_WaitForHSEStartUp                             ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+RTCAlarm_IRQHandler                               ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+RTC_ClearFlag                                     ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rtc.o
+RTC_ClearITPendingBit                             ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rtc.o
+RTC_EnterConfigMode                               ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rtc.o
+RTC_ExitConfigMode                                ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rtc.o
+RTC_GetCounter                                    ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rtc.o
+RTC_GetDivider                                    ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rtc.o
+RTC_GetFlagStatus                                 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rtc.o
+RTC_GetITStatus                                   ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rtc.o
+RTC_IRQHandler                                    ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+RTC_ITConfig                                      ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rtc.o
+RTC_SetAlarm                                      ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rtc.o
+RTC_SetCounter                                    ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rtc.o
+RTC_SetPrescaler                                  ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rtc.o
+RTC_WaitForLastTask                               ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rtc.o
+RTC_WaitForSynchro                                ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_rtc.o
+Reset_Handler                                     ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+SDIO_CEATAITCmd                                   ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+SDIO_ClearFlag                                    ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+SDIO_ClearITPendingBit                            ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+SDIO_ClockCmd                                     ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+SDIO_CmdStructInit                                ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+SDIO_CommandCompletionCmd                         ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+SDIO_DMACmd                                       ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+SDIO_DataConfig                                   ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+SDIO_DataStructInit                               ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+SDIO_DeInit                                       ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+SDIO_GetCommandResponse                           ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+SDIO_GetDataCounter                               ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+SDIO_GetFIFOCount                                 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+SDIO_GetFlagStatus                                ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+SDIO_GetITStatus                                  ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+SDIO_GetPowerState                                ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+SDIO_GetResponse                                  ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+SDIO_ITConfig                                     ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+SDIO_Init                                         ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+SDIO_ReadData                                     ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+SDIO_SendCEATACmd                                 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+SDIO_SendCommand                                  ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+SDIO_SendSDIOSuspendCmd                           ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+SDIO_SetPowerState                                ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+SDIO_SetSDIOOperation                             ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+SDIO_SetSDIOReadWaitMode                          ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+SDIO_StartSDIOReadWait                            ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+SDIO_StopSDIOReadWait                             ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+SDIO_StructInit                                   ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+SDIO_WriteData                                    ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.o
+SPI1_IRQHandler                                   ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+SPI2_IRQHandler                                   ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+SPI_BiDirectionalLineConfig                       ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+SPI_CalculateCRC                                  ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+SPI_Cmd                                           ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+SPI_DataSizeConfig                                ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+SPI_GetCRC                                        ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+SPI_GetCRCPolynomial                              ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+SPI_I2S_ClearFlag                                 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+SPI_I2S_ClearITPendingBit                         ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+SPI_I2S_DMACmd                                    ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+SPI_I2S_DeInit                                    ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+SPI_I2S_GetFlagStatus                             ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+SPI_I2S_GetITStatus                               ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+SPI_I2S_ITConfig                                  ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+SPI_I2S_ReceiveData                               ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+SPI_I2S_SendData                                  ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+SPI_Init                                          ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+SPI_NSSInternalSoftwareConfig                     ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+SPI_SSOutputCmd                                   ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+SPI_StructInit                                    ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+SPI_TransmitCRC                                   ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+SVC_Handler                                       ../User/stm32f10x_it.o
+                                                  ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+SysTick_CLKSourceConfig                           ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/misc.o
+                                                  ../Drivers/stm32_delay.o
+SysTick_Handler                                   ../User/stm32f10x_it.o
+                                                  ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+SystemCoreClock                                   ../Libraries/Stm32F10x_Fwlib/CMSIS/system_stm32f10x.o
+                                                  ../Drivers/stm32_delay.o
+SystemCoreClockUpdate                             ../Libraries/Stm32F10x_Fwlib/CMSIS/system_stm32f10x.o
+SystemInit                                        ../Libraries/Stm32F10x_Fwlib/CMSIS/system_stm32f10x.o
+                                                  ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+TAMPER_IRQHandler                                 ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+TIM1_BRK_IRQHandler                               ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+TIM1_CC_IRQHandler                                ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+TIM1_TRG_COM_IRQHandler                           ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+TIM1_UP_IRQHandler                                ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+TIM2_IRQHandler                                   ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+TIM3_IRQHandler                                   ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+TIM4_IRQHandler                                   ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+TIM_ARRPreloadConfig                              ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_BDTRConfig                                    ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_BDTRStructInit                                ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_CCPreloadControl                              ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_CCxCmd                                        ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_CCxNCmd                                       ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_ClearFlag                                     ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_ClearITPendingBit                             ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_ClearOC1Ref                                   ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_ClearOC2Ref                                   ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_ClearOC3Ref                                   ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_ClearOC4Ref                                   ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_Cmd                                           ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_CounterModeConfig                             ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_CtrlPWMOutputs                                ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_DMACmd                                        ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_DMAConfig                                     ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_DeInit                                        ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_ETRClockMode1Config                           ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_ETRClockMode2Config                           ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_ETRConfig                                     ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_EncoderInterfaceConfig                        ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_ForcedOC1Config                               ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_ForcedOC2Config                               ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_ForcedOC3Config                               ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_ForcedOC4Config                               ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_GenerateEvent                                 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_GetCapture1                                   ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_GetCapture2                                   ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_GetCapture3                                   ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_GetCapture4                                   ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_GetCounter                                    ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_GetFlagStatus                                 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_GetITStatus                                   ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_GetPrescaler                                  ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_ICInit                                        ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_ICStructInit                                  ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_ITConfig                                      ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_ITRxExternalClockConfig                       ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_InternalClockConfig                           ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_OC1FastConfig                                 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_OC1Init                                       ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_OC1NPolarityConfig                            ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_OC1PolarityConfig                             ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_OC1PreloadConfig                              ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_OC2FastConfig                                 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_OC2Init                                       ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_OC2NPolarityConfig                            ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_OC2PolarityConfig                             ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_OC2PreloadConfig                              ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_OC3FastConfig                                 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_OC3Init                                       ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_OC3NPolarityConfig                            ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_OC3PolarityConfig                             ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_OC3PreloadConfig                              ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_OC4FastConfig                                 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_OC4Init                                       ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_OC4PolarityConfig                             ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_OC4PreloadConfig                              ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_OCStructInit                                  ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_PWMIConfig                                    ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_PrescalerConfig                               ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_SelectCCDMA                                   ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_SelectCOM                                     ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_SelectHallSensor                              ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_SelectInputTrigger                            ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_SelectMasterSlaveMode                         ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_SelectOCxM                                    ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_SelectOnePulseMode                            ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_SelectOutputTrigger                           ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_SelectSlaveMode                               ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_SetAutoreload                                 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_SetClockDivision                              ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_SetCompare1                                   ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_SetCompare2                                   ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_SetCompare3                                   ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_SetCompare4                                   ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_SetCounter                                    ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_SetIC1Prescaler                               ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_SetIC2Prescaler                               ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_SetIC3Prescaler                               ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_SetIC4Prescaler                               ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_TIxExternalClockConfig                        ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_TimeBaseInit                                  ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_TimeBaseStructInit                            ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_UpdateDisableConfig                           ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+TIM_UpdateRequestConfig                           ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+USART1_IRQHandler                                 ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+USART2_IRQHandler                                 ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+USART3_IRQHandler                                 ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+USART_ClearFlag                                   ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+USART_ClearITPendingBit                           ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+USART_ClockInit                                   ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+USART_ClockStructInit                             ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+USART_Cmd                                         ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+USART_DMACmd                                      ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+USART_DeInit                                      ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+USART_GetFlagStatus                               ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+USART_GetITStatus                                 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+USART_HalfDuplexCmd                               ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+USART_ITConfig                                    ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+USART_Init                                        ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+USART_IrDACmd                                     ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+USART_IrDAConfig                                  ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+USART_LINBreakDetectLengthConfig                  ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+USART_LINCmd                                      ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+USART_OneBitMethodCmd                             ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+USART_OverSampling8Cmd                            ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+USART_ReceiveData                                 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+USART_ReceiverWakeUpCmd                           ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+USART_SendBreak                                   ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+USART_SendData                                    ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+USART_SetAddress                                  ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+USART_SetGuardTime                                ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+USART_SetPrescaler                                ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+USART_SmartCardCmd                                ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+USART_SmartCardNACKCmd                            ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+USART_StructInit                                  ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+USART_WakeUpConfig                                ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+USBWakeUp_IRQHandler                              ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+USB_HP_CAN1_TX_IRQHandler                         ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+USB_LP_CAN1_RX0_IRQHandler                        ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+UsageFault_Handler                                ../User/stm32f10x_it.o
+                                                  ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+WWDG_ClearFlag                                    ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_wwdg.o
+WWDG_DeInit                                       ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_wwdg.o
+WWDG_Enable                                       ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_wwdg.o
+WWDG_EnableIT                                     ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_wwdg.o
+WWDG_GetFlagStatus                                ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_wwdg.o
+WWDG_IRQHandler                                   ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+WWDG_SetCounter                                   ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_wwdg.o
+WWDG_SetPrescaler                                 ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_wwdg.o
+WWDG_SetWindowValue                               ../Libraries/Stm32F10x_Fwlib/STM32F10x_StdPeriph_Driver/src/stm32f10x_wwdg.o
+__LDREXB                                          ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+__LDREXH                                          ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+__LDREXW                                          ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+__RBIT                                            ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+__REV                                             ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+__REV16                                           ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+__REVSH                                           ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+__STREXB                                          ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+__STREXH                                          ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+__STREXW                                          ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+__get_BASEPRI                                     ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+__get_CONTROL                                     ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+__get_FAULTMASK                                   ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+__get_MSP                                         ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+__get_PRIMASK                                     ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+__get_PSP                                         ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+__set_BASEPRI                                     ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+__set_CONTROL                                     ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+__set_FAULTMASK                                   ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+__set_MSP                                         ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+__set_PRIMASK                                     ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+__set_PSP                                         ../Libraries/Stm32F10x_Fwlib/CMSIS/core_cm3.o
+_ebss                                             ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+_edata                                            ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+_estack                                           ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+_sbss                                             ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+_sdata                                            ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+_sidata                                           ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+fac_ms                                            ../Drivers/stm32_delay.o
+fac_us                                            ../Drivers/stm32_delay.o
+g_pfnVectors                                      ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
+main                                              ../User/main.o
+                                                  ../Libraries/Stm32F10x_Fwlib/startup/startup_stm32f10x_md.o
