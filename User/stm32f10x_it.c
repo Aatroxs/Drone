@@ -151,7 +151,38 @@ void SysTick_Handler(void)
 /*void PPP_IRQHandler(void)
 {
 }*/
+/**
+ * @brief   This fuction handles USART1 interrupt request.
+ * @param   None
+ * @retval  None
+ */
+void USART1_IRQHandler(void)
+{
+  uint8_t Res;
+  if(USART_GetITStatus(USART1,USART_IT_RXNE)!=RESET){
+    Res=USART_ReceiveData(USART1);
+    USART_SendData(USART1,Res);
+  }
+}
+int flag =1;
+void TIM3_IRQHandler(void)
+{
+  if(TIM_GetITStatus(TIM3,TIM_IT_Update)!=RESET)
+  {
+    TIM_ClearITPendingBit(TIM3,TIM_IT_Update);
 
+    if(flag)
+    {
+      GPIO_SetBits(GPIOB,GPIO_Pin_12);
+      flag=0;
+    }else
+    {
+      GPIO_ResetBits(GPIOB,GPIO_Pin_12);
+      flag=1;
+    }
+     USART_SendData(USART1,'c');
+  }
+}
 /**
   * @}
   */ 

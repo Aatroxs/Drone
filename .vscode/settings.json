@@ -3,5 +3,8 @@
         "stm32f10x.h": "c",
         "core_cm3.h": "c",
         "stm32f10x_conf.h": "c"
+    },
+    "files.exclude": {
+        "**/*.o": true
     }
 }
